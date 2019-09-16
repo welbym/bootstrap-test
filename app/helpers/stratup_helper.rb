@@ -1,0 +1,2 @@
+module StratupHelper
+end
